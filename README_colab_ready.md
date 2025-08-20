@@ -72,11 +72,8 @@ keras
 - ROC‑AUC per class
 
 ## 👩‍💻 Authors
-- Somali Saha
 - Swastika Mondal
-- Rakhi Saha
-- Jagannath Mondal
-- Sudip Chatterjee
+  
 
 ## ⚖️ License
 Released under the **MIT License** (see `LICENSE`).
